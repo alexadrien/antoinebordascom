@@ -12,11 +12,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.sipios.com/blog/alliances-banque-et-fintech-finance-du-futur"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          OPM
         </a>
       </header>
     </div>
