@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          OPM
+          Cesse de te limiter
         </a>
       </header>
     </div>
